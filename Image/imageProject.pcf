@@ -1,0 +1,6 @@
+set_io clk D6
+set_io pred D9
+set_io pblue C7
+set_io pgreen C9
+set_io grey C10
+set_io black D7
